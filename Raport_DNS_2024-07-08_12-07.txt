@@ -1,0 +1,19 @@
+Domena example.com jest zajęta.
+Właściciel domeny: Nieznany
+Data wygaśnięcia domeny:    Registry Expiry Date: 2024-08-13T04:00:00Z
+
+Adres IP 8.8.8.8 jest powiązany z domeną: dns.google
+Domena dns.google jest zajęta.
+Właściciel domeny: Registrant Name: REDACTED FOR PRIVACY
+Data wygaśnięcia domeny: Registry Expiry Date: 2025-04-16T22:57:01Z
+
+Domena google.com jest zajęta.
+Właściciel domeny: Registrant Organization: Google LLC
+Data wygaśnięcia domeny:    Registry Expiry Date: 2028-09-14T04:00:00Z
+
+Adres IP 192.168.1.1 nie jest powiązany z żadną domeną.
+
+Domena facebook.com jest zajęta.
+Właściciel domeny: Registrant Name: Domain Admin
+Data wygaśnięcia domeny:    Registry Expiry Date: 2033-03-30T04:00:00Z
+
